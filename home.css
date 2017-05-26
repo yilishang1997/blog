@@ -1,0 +1,39 @@
+body {
+    font-family: STFangSong, Helvetica, Arial, Vernada, Tahoma, STXihei, "Microsoft YaHei", "Songti SC", SimSun, Heiti, sans-serif;
+    font-size: 18px;
+    background: #d6e2ba;
+}
+
+.title a {
+    display: block;
+}
+
+.title {
+    cursor: pointer;
+    color: #27256f;
+}
+
+li.title:hover {
+    background-color: #ced0ba;
+    color: #7a906a;
+}
+
+.panel {
+    border-radius: 0;
+}
+
+.panel-default > .panel-heading {
+	background-image: none;
+	background-color: #DEEAC3;
+}
+li {
+    background: #DCE5C4;
+}
+.navbar-default {
+	background-image: none;
+	background-color: #DEEAC3;
+  box-shadow: none;
+}
+a {
+    color: #214b6e;
+}
